@@ -1,0 +1,27 @@
+*RE
+
+  Transister
+  Gates - And, Or, Not, XOR
+  Half Adder
+  Full Adder
+  Arithmetic and Logical Unit
+
+  1 trigger(OR Gate) - 0 trigger(AND Gate) : saving data in transistor
+
+  And-OR Latch - Catches values in gates and if changes it catches the output.
+
+  Gated Latch
+
+  DEQ
+  Data IN - Write ENABLE - Data OUT
+  
+  (UP TO DOWN)
+  8 bit register
+        |
+  16 x 16 Latch Matrix
+        |
+  256 bit Memory
+        |
+  256 Bytes Ram out of 256 bits Memory
+
+
