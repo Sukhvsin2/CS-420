@@ -1,3 +1,5 @@
+# CS 420 by [Dr. Daniel Ray](https://una.edu/faculty/dray4.html)
+
 I have provided a file (threadhello.cLinks to an external site.) that generates 10 threads, each of which simply prints out a "hello world" message before terminating.  Examine this code carefully.
 
 Upload this file (you may use an ftp client or, better yet, look up how to use the scp command (prefered)) to your CS server account.
